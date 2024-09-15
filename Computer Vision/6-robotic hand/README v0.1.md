@@ -17,3 +17,6 @@ This Arduino-based project uses an infrared (IR) remote to control 5 finger for 
 ## Components For Hand
 Cardboard Hand Frame: The hand structure is made from cardboard, with each finger outlined and cut out. This acts as the base for the robotic hand, and have a threads connected to the joints, mimicking tendons in a real hand.
 
+![demo 2](https://github.com/user-attachments/assets/f51fef07-814e-470c-9118-c0a99c777821)
+
+
