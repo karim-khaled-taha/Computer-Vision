@@ -32,7 +32,6 @@ This project demonstrates how to control an LED's brightness level based on the 
 - The percentage is sent to the Arduino over a serial connection to adjust the LED brightness using **PWM**.
 
 ## Demo
+https://github.com/user-attachments/assets/670abe7a-183e-41f8-8d3e-63f651264188
 
-[![Hand Gesture Demo](demo.gif)
-](https://github.com/user-attachments/assets/aaee18f1-ca01-469d-872b-75d34779133c
-)
+
