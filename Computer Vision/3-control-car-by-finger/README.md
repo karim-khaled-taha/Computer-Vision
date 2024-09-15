@@ -56,10 +56,12 @@ This project demonstrates how to control a car using finger gestures, detected v
      - Finger lowered → send `1`, `3`, etc.
 ## Demo 
 ### Car Before
-![car before](https://github.com/user-attachments/assets/47cefe2f-32a8-4f4f-a480-e63ed1fdd6e4)
+![car before](https://github.com/user-attachments/assets/305ab637-dcab-4f78-9bcf-2c2eb7ee6356)
+
 ### Car After 
-![car img](https://github.com/user-attachments/assets/86195743-673a-451b-bdbe-a445cc153251)
-### Working
-https://github.com/user-attachments/assets/ebec71f1-a33b-4889-a38d-004af49f8ac9
+![car img](https://github.com/user-attachments/assets/b84b1b3f-10b0-4060-ac26-4fb818eeaecc)
+
+### Demo
+https://github.com/user-attachments/assets/440f849d-c8b3-4583-9bc4-ff813598e86d
 
 
