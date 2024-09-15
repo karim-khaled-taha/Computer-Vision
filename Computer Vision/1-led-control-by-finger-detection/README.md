@@ -35,9 +35,10 @@ This project uses **OpenCV** and **MediaPipe** to track hand movements and detec
 
 
 ### Demo
-![Screenshot 2024-09-11 174044](https://github.com/user-attachments/assets/48de5c4d-869f-4433-8ea8-34c98c7086a8)
-![Screenshot 2024-09-11 173908](https://github.com/user-attachments/assets/bb5c777f-cd53-4d69-9f4f-1932147520a1)
-![Screenshot 2024-09-11 173957](https://github.com/user-attachments/assets/183b7e7b-a59c-457c-acd1-d92e1822ab3d)
-![Screenshot 2024-09-11 174012](https://github.com/user-attachments/assets/18f9fd4d-ee47-40f3-a2b5-8b9735780a84)
-![Screenshot 2024-09-11 174021](https://github.com/user-attachments/assets/af57e5f1-a64f-4054-b925-e89124801747)
-![Screenshot 2024-09-11 174034](https://github.com/user-attachments/assets/c3970960-4a54-4318-bfdc-40cf3663048b)
+![0](https://github.com/user-attachments/assets/ed1055ba-3803-4dec-935e-09641278eb1f)
+![1](https://github.com/user-attachments/assets/308135b9-9cc4-4e21-93f7-8a6ca28fd1d6)
+![2](https://github.com/user-attachments/assets/3edcb8b3-50f4-4470-873a-d3e9f4b09882)
+![3](https://github.com/user-attachments/assets/36ddbead-0911-4c53-bacf-9e8f0ec455a5)
+![4](https://github.com/user-attachments/assets/db14d2b9-e5c5-44ce-a1f4-6f73bd7a83e3)
+![5](https://github.com/user-attachments/assets/b0c1e1f7-614f-4e0f-b374-e1f8bf005156)
+
