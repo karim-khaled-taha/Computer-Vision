@@ -47,6 +47,7 @@ https://github.com/user-attachments/assets/6a6a9a31-33bf-45f9-975d-3aea394a1944
 ### How Distance is Calculated
 
 In this project, the distance from the camera to a detected face is estimated using the **apparent size of the face** in the image. The method is based on the **pin-hole camera model**, which allows us to estimate distance by comparing the known size of an object (in this case, a human face) with its size in the image captured by the camera.
+- use The `FaceMeshDetector` from `cvzone` is used to detect facial landmarks for eyes ,this distance The average adult pupillary distance is about 63 mm.
 
 #### Formula Used:
 ![Screenshot 2024-09-04 085135](https://github.com/user-attachments/assets/d43f0eed-3876-4155-aef0-b8db1259882e)
