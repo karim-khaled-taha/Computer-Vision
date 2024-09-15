@@ -23,3 +23,10 @@ __init__: Initializes lists for storing known face encodings and names.
 - **load_encoding_images**: Loads images from the specified path, encodes them, and stores them.
 - **detect_known_faces**: Detects faces in the frame, compares them to known faces, and returns the locations and names of recognized faces.
 
+## Demo Detect Depended on database
+![Screenshot 2024-09-15 182344](https://github.com/user-attachments/assets/5914e3d3-7e0c-41a0-bf1b-b7d4cee40788)
+![Screenshot 2024-09-15 182320](https://github.com/user-attachments/assets/3a586fa4-66c7-4c84-961c-9490b6edf5fe)
+
+
+![Screenshot 2024-09-15 182251](https://github.com/user-attachments/assets/63584176-b1e2-45eb-bc53-499794b11bf3)
+![Screenshot 2024-09-15 182236](https://github.com/user-attachments/assets/763a7c31-722f-43d3-bb87-bc9493068fed)
