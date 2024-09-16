@@ -9,6 +9,8 @@ This project aims to create a real-time fire detection system using a trained YO
 - [Requirements](#requirements)
 - [How It Works](#how-it-works)
 - [Steps](#Steps)
+- [Demo Project](#Demo-Video )
+
 
 ---
 
