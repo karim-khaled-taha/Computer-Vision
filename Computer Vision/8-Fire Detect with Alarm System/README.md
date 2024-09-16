@@ -60,4 +60,8 @@ To build an accurate fire detection model, you will need a well-labeled dataset.
 3. Follow the instructions to train the model on your dataset.
 4. After training, download the trained model (`best.pt`) and place it in the project folder.
 
+## Demo Video 
+https://github.com/user-attachments/assets/69765c4d-16aa-4336-846f-134cc1028a87
+
+
 
