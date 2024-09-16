@@ -50,14 +50,14 @@ To run this project, you will need:
 
 To build an accurate fire detection model, you will need a well-labeled dataset. We recommend gathering various fire images under different lighting and environmental conditions.
 
-- **Sample Fire Dataset**: You can download a sample dataset from [[link to dataset](https://universe.roboflow.com/-jwzpw/continuous_fire/dataset/6)](#).
+- **Sample Fire Dataset**: You can download a sample dataset from [[link to dataset](https://universe.roboflow.com/-jwzpw/continuous_fire/dataset/6)].
 
 
 ## 2. Training on Google Colab 
 
 
 1. Upload your dataset to Google Drive.
-2. Open the [[YOLOv8 Fire Detection Colab Notebook](https://colab.research.google.com/drive/1rOrocSNvpBsdsLjyZuOwvhA4ZYy4_qtl#scrollTo=1c6nzoiMOzdE)](#).
+2. Open the [[YOLOv8 Fire Detection Colab Notebook](https://colab.research.google.com/drive/1rOrocSNvpBsdsLjyZuOwvhA4ZYy4_qtl#scrollTo=1c6nzoiMOzdE)].
 3. Follow the instructions to train the model on your dataset.
 4. After training, download the trained model (`best.pt`) and place it in the project folder.
 
