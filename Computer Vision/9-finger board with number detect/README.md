@@ -17,7 +17,8 @@ This project implements a hand gesture-controlled drawing application using a we
 
 3. **YOLOv8 Integration**:
    - Train model on your dataset, my Dataset [link to dataset](https://app.roboflow.com/karim-khaled-gfnvh/numbers-mwwpy/settings) , I collected this data and make Annotation For Each Image.
-   - After drawing a number, the model detects and predicts it in real-time.
+   - After Train Model in my custom data , download `best.pt` Filew
+   - After That Uce the model by drawing a number, the model detects and predicts it in real-time.
    - The prediction is then sent via serial communication to an Arduino.
 
 4. **Arduino Communication**:
