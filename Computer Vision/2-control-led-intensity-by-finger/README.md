@@ -5,6 +5,8 @@ This project demonstrates how to control an LED's brightness level based on the 
 ## Features
 - **Hand Gesture Recognition**: Detects hand landmarks and tracks the position of the thumb and index finger.
 - **LED Level Control**: Calculates the distance between the thumb and index finger, maps it to a percentage, and sends the value to the Arduino to adjust the LED brightness.
+- **Normalizing Fingertip Distance**:This section normalizes the distance between the thumb and index finger relative to an average reference distance. The goal is to make the gesture detection independent of hand 
+ size or varying distances from the camera. 
 - **Real-time Processing**: Displays FPS (Frames per Second) and real-time values for fingertip distance and corresponding LED brightness level.
 
 ## Requirements
