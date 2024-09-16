@@ -9,7 +9,7 @@ This project aims to create a real-time fire detection system using a trained YO
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [How It Works](#how-it-works)
-- [Dataset](#Steps)
+- [Steps](#Steps)
 
 ---
 
