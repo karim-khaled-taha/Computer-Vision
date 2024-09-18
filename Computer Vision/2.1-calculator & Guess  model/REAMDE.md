@@ -10,6 +10,7 @@ This project is a **hand-gesture based drawing** tool that utilizes **computer v
 - Integration with **Generative AI** for content prediction and interpretation:
   - Solve mathematical problems by drawing them on the canvas.
   - Guess or interpret drawings based on user input.
+- **Run the application using Streamlit** For Easy Interface User.
 
 ## Tech Stack
 
