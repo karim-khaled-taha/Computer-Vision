@@ -25,7 +25,8 @@ with col2:
 
 
 # Setup the LLM API
-API_KEY = "AIzaSyDcINe2istQgMnX3B8Rp-XkzDp-_w086K8"
+API_KEY = "use your KEY_API"
+           
 genai.configure(api_key=API_KEY)
 llm_model = genai.GenerativeModel(model_name="gemini-1.5-pro-latest")
 
