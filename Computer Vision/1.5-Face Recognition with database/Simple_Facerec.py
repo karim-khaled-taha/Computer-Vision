@@ -49,18 +49,28 @@ class SimpleFacerec:
 
         face_names = []
         for face_encoding in face_encodings:
-            # See if the face is a match for the known face(s)
-            matches = face_recognition.compare_faces(self.known_face_encodings, face_encoding)
-            name = "Unknown"
+                # See if the face is a match for the known face(s)
+                
+                # matches = face_recognition.compare_faces(self.known_face_encodings, face_encoding)
+                # name = "Unknown"
 
-            # # If a match was found in known_face_encodings
+                # Calculate the distances to known faces
+                face_distances = face_recognition.face_distance(self.known_face_encodings, face_encoding)
+                 # Print distances with corresponding names
+                print("Distances for current face encoding:")
+                for index, distance in enumerate(face_distances):
+                    print(f"{self.known_face_names[index]}: {distance:.2f}")  # Print the name and distance with two decimal places
+                
+                best_match_index = np.argmin(face_distances)
 
-            #  use the known face with the smallest distance to the new face
-            face_distances = face_recognition.face_distance(self.known_face_encodings, face_encoding)
-            best_match_index = np.argmin(face_distances)
-            if matches[best_match_index]:
-                name = self.known_face_names[best_match_index]
-            face_names.append(name)
+                # Check if the best match is valid based on the distance threshold
+                if face_distances[best_match_index] < 0.45:
+                    name = self.known_face_names[best_match_index]
+                
+                    face_names.append(name)
+                else:
+                    face_names.append("Unknown")
+
 
         # Convert to numpy array to adjust coordinates with frame resizing quickly
         face_locations = np.array(face_locations)
