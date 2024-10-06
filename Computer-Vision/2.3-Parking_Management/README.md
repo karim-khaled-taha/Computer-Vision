@@ -16,18 +16,18 @@ This project is a Parking Management System that detects available and occupied 
 - **Pros:** Simple and fast.
 - **Cons:** Sensitive to lighting and requires fine-tuned parameters.
 
-### [Version 2: YOLOv5 Car Detection (Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/2.3-Parking_Management/by_Yolov5)
+### [Version 2: YOLOv5 Car Detection (Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/by_Yolov5)
 - YOLOv5 is used to detect cars from a non-top view angle.
 - **Pros:** Faster detection of cars.
 - **Cons:** Performance may vary with camera angles.
 
-### [Version 3: YOLOv11 Car Detection (Custom Data, Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V1.0)
+### [Version 3: YOLOv11 Car Detection (Custom Data, Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V1.0)
 - YOLOv11 is trained with a dataset that includes free and occupied parking spaces.
 - The camera is placed at a non-top view angle.
 - **Pros:** Higher accuracy due to customized training data.
 - **Cons:** Dataset-specific, may not generalize well to all parking lots.
 
-### [Version 4: YOLOv11 Car Detection (Custom Data, Top View)](https://github.com/karim-khaled-taha/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V2.0)
+### [Version 4: YOLOv11 Car Detection (Custom Data, Top View)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V2.0)
 - YOLOv11 is trained with top-view images of cars and parking spaces.
 - **Pros:** Improved detection due to consistent top-view perspective.
 - **Cons:** Requires a specific camera placement for optimal results.
