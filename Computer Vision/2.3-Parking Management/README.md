@@ -11,7 +11,7 @@ This project is a Parking Management System that detects available and occupied 
 
 ## Version Details
 
-### [Version 1: Image Processing](./karim-khaled-taha/Computer-Vision/Computer Vision/2.3-Parking Management/by image processing)
+### [Version 1: Image Processing](./by image processing)
 - This version uses classical image processing techniques (e.g., edge detection, contouring) to analyze parking lot images.
 - **Pros:** Simple and fast.
 - **Cons:** Sensitive to lighting and requires fine-tuned parameters.
