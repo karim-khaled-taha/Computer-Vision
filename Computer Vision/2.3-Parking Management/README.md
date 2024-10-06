@@ -11,23 +11,23 @@ This project is a Parking Management System that detects available and occupied 
 
 ## Version Details
 
-### Version 1: Image Processing
+### [Version 1: Image Processing](./version1_image_processing)
 - This version uses classical image processing techniques (e.g., edge detection, contouring) to analyze parking lot images.
 - **Pros:** Simple and fast.
 - **Cons:** Sensitive to lighting and requires fine-tuned parameters.
 
-### Version 2: YOLOv5 Car Detection (Non-top view)
+### [Version 2: YOLOv5 Car Detection (Non-top view)](./version2_yolov5_car_detection)
 - YOLOv5 is used to detect cars from a non-top view angle.
 - **Pros:** Faster detection of cars.
 - **Cons:** Performance may vary with camera angles.
 
-### Version 3: YOLOv11 Car Detection (Custom Data, Top View)
+### [Version 3: YOLOv11 Car Detection (Custom Data, Non-top view)](./version3_yolov8_non_top_view)
 - YOLOv11 is trained with a dataset that includes free and occupied parking spaces.
 - The camera is placed at a non-top view angle.
 - **Pros:** Higher accuracy due to customized training data.
 - **Cons:** Dataset-specific, may not generalize well to all parking lots.
 
-### Version 4: YOLOv11 Car Detection (Custom Data, Top View)
+### [Version 4: YOLOv11 Car Detection (Custom Data, Top View)](./version4_yolov8_top_view)
 - YOLOv11 is trained with top-view images of cars and parking spaces.
 - **Pros:** Improved detection due to consistent top-view perspective.
 - **Cons:** Requires a specific camera placement for optimal results.
