@@ -10,7 +10,7 @@ This project is a Parking Management System that detects available and occupied 
 - **Version 4:** Uses YOLOv11, trained with top-view images of cars to better detect cars and parking spaces.
 
 ## Version Details
-Computer-Vision/2.3-Parking_Management/by_image_processing
+[by_image_processing](https://github.com/username/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/by_image_processing)
 
 ### [Version 1: Image Processing (Top View)](Computer-Vision/2.3-Parking_Management/by_image_processing)
 - This version uses classical image processing techniques (e.g., edge detection, contouring) to analyze parking lot images.
