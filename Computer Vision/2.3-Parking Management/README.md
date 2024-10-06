@@ -21,13 +21,13 @@ This project is a Parking Management System that detects available and occupied 
 - **Pros:** Faster detection of cars.
 - **Cons:** Performance may vary with camera angles.
 
-### Version 3: YOLOv8 Car Detection (Custom Data, Top View)
+### Version 3: YOLOv11 Car Detection (Custom Data, Top View)
 - YOLOv11 is trained with a dataset that includes free and occupied parking spaces.
 - The camera is placed at a non-top view angle.
 - **Pros:** Higher accuracy due to customized training data.
 - **Cons:** Dataset-specific, may not generalize well to all parking lots.
 
-### Version 4: YOLOv8 Car Detection (Custom Data, Top View)
+### Version 4: YOLOv11 Car Detection (Custom Data, Top View)
 - YOLOv11 is trained with top-view images of cars and parking spaces.
 - **Pros:** Improved detection due to consistent top-view perspective.
 - **Cons:** Requires a specific camera placement for optimal results.
