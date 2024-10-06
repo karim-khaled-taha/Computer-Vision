@@ -16,7 +16,7 @@ This project is a Parking Management System that detects available and occupied 
 - **Pros:** Simple and fast.
 - **Cons:** Sensitive to lighting and requires fine-tuned parameters.
 
-### [Version 2: YOLOv5 Car Detection (Non-top view)](./Computer-Vision/2.3-Parking_Management/by_Yolov5)
+### [Version 2: YOLOv5 Car Detection (Non-top view)](Computer-Vision/2.3-Parking_Management/by_Yolov5)
 - YOLOv5 is used to detect cars from a non-top view angle.
 - **Pros:** Faster detection of cars.
 - **Cons:** Performance may vary with camera angles.
