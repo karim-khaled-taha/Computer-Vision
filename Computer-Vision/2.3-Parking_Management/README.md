@@ -53,9 +53,4 @@ This project is a Parking Management System that detects available and occupied 
   - PyTorch
   - YOLOv8
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/parking-management-system.git
-   cd parking-management-system
