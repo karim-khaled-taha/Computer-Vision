@@ -15,6 +15,8 @@ This project is a Parking Management System that detects available and occupied 
 - This version uses classical image processing techniques (e.g., edge detection, contouring) to analyze parking lot images.
 - **Pros:** Simple and fast.
 - **Cons:** Sensitive to lighting and requires fine-tuned parameters.
+- [Watch the video](https://github.com/user-attachments/assets/76cfdc0a-7d6f-45c5-b77c-edd1f6447c83)
+
 
 ### [Version 2: YOLOv5 Car Detection (Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/by_Yolov5)
 - YOLOv5 is used to detect cars from a non-top view angle.
@@ -26,6 +28,7 @@ This project is a Parking Management System that detects available and occupied 
 - The camera is placed at a non-top view angle.
 - **Pros:** Higher accuracy due to customized training data.
 - **Cons:** Dataset-specific, may not generalize well to all parking lots.
+
 
 ### [Version 4: YOLOv11 Car Detection (Custom Data, Top View)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V2.0)
 - YOLOv11 is trained with top-view images of cars and parking spaces.
