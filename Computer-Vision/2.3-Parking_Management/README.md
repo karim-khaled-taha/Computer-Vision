@@ -26,7 +26,7 @@ This project is a Parking Management System that detects available and occupied 
 
 
 
-### [Version 3: YOLOv11 Car Detection (Custom Data, Non-top view)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V1.0)
+### [Version 3: YOLOv11 Car Detection (Custom Data, Top view)](https://github.com/karim-khaled-taha/Computer-Vision/tree/main/Computer-Vision/2.3-Parking_Management/BY_Yolov11_V1.0)
 - YOLOv11 is trained with a dataset that includes free and occupied parking spaces.
 - The camera is placed at a non-top view angle.
 - **Pros:** Higher accuracy due to customized training data.
