@@ -24,7 +24,7 @@ Where:
 1. **Calibration**: First, the camera's **focal length** needs to be calculated by capturing an image of a eyes at a known distance and measuring the eyes width in pixels. The formula for calculating the focal length is:
 
    
-   Focal Length (f) = eyes Width in Image * Known Distance(d) / Known eyes Width(W)
+   Focal Length (f) = eyes Width in Image(w) * Known Distance(d) / Known eyes Width(W)
    
 ![Screenshot 2024-09-15 185202](https://github.com/user-attachments/assets/41dbc431-3a13-4a85-80b1-814e3a441ed5)
 
